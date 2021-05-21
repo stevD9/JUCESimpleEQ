@@ -1,1 +1,1 @@
-# SimpleEQ in JUCE 
+# Simple EQ in JUCE 
